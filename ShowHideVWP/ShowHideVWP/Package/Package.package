@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="5f477fc7-2b6b-40f7-a447-d12169b7cec4" solutionId="5f477fc7-2b6b-40f7-a447-d12169b7cec4" resetWebServer="false" sharePointProductVersion="16.0" name="ShowHideVWP" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="7b7a1dd5-1673-4106-b4f2-aea4902d284b" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="5018b7b1-6c2c-48ef-acc8-15d7ae799689" />
+    <projectItemReference itemId="34d23f13-320c-47cc-9ada-f0c47e9e5fc1" />
+  </projectItems>
+</package>
