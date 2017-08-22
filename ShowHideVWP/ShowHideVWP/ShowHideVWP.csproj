@@ -97,9 +97,7 @@
     <Content Include="Images\ShowHideVWP\appbar.chevron.down.png" />
     <Content Include="Images\ShowHideVWP\appbar.chevron.up.png" />
     <Content Include="Layouts\ShowHideVWP\script\jquery-2.2.0.min.js" />
-    <Content Include="Layouts\ShowHideVWP\script\jquery-ui-1.12.0.min.js" />
     <Content Include="Layouts\ShowHideVWP\script\showhidevwp.js" />
-    <Content Include="Layouts\ShowHideVWP\style\jquery-ui-1.12.0.css" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>

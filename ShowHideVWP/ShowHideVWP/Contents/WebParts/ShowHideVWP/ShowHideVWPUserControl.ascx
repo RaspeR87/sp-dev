@@ -7,11 +7,8 @@
 <%@ Register Tagprefix="WebPartPages" Namespace="Microsoft.SharePoint.WebPartPages" Assembly="Microsoft.SharePoint, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" %>
 <%@ Control Language="C#" AutoEventWireup="true" CodeBehind="ShowHideVWPUserControl.ascx.cs" Inherits="ShowHideVWP.Contents.WebParts.ShowHideVWP.ShowHideVWPUserControl" %>
 
-<link rel="stylesheet" href="_layouts/15/ShowHideVWP/style/jquery-ui-1.12.0.css" />
-
 <script type="text/javascript" src="_layouts/15/ShowHideVWP/script/jquery-2.2.0.min.js"></script>
-<script type="text/javascript" src="_layouts/15/ShowHideVWP/script/jquery-ui-1.12.0.min.js"></script>
-<script type="text/javascript" src="_layouts/15/ShowHideVWP/script/showhidevwp.js?v=20170821"></script>
+<script type="text/javascript" src="_layouts/15/ShowHideVWP/script/showhidevwp.js"></script>
 
 <div class="showhidevwp-content" style="display:none;">
     <asp:Label ID="lbEmpty1" runat="server" Text="Empty 1:"></asp:Label><br />
