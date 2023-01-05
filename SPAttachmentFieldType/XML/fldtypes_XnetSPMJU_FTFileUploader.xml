@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<FieldTypes>
+  <FieldType>
+    <Field Name="TypeName">XnetSPMJU_FTFileUploader</Field>
+    <Field Name="ParentType">URL</Field>
+    <Field Name="TypeDisplayName">Priloži datoteko</Field>
+    <Field Name="TypeShortDescription">Priloži datoteko</Field>
+    <Field Name="UserCreatable">TRUE</Field>
+    <Field Name="ShowOnListCreate">TRUE</Field>
+    <Field Name="ShowOnSurveyCreate">TRUE</Field>
+    <Field Name="ShowOnDocumentLibraryCreate">FALSE</Field>
+    <Field Name="ShowOnColumnTemplateCreate">TRUE</Field>
+    <Field Name="AllowBaseTypeRendering">TRUE</Field>
+    <Field Name="Filterable">TRUE</Field>
+    <Field Name="Sortable">TRUE</Field>
+    <Field Name="FieldTypeClass">Xnet.SP.MJU.Contents.FieldTypes.FTFileUploader, $SharePoint.Project.AssemblyFullName$</Field>
+    <PropertySchema>
+      <Fields>
+        <Field Name="HideOOTBAttachFilesMenu"
+          DisplayName="Skrij OOTB 'Priloži datoteko' gumb"
+          MaxLength="200"
+          DisplaySize="100"
+          Type="Boolean" />
+      </Fields>
+    </PropertySchema>
+  </FieldType>
+</FieldTypes> 
